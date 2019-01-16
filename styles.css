@@ -10,3 +10,10 @@ nav{
 nav ul {
     width: 100%;
 }
+nav ul li {
+    width: 20%;
+}
+nav ul li a{
+    display: block;
+    width: 100%
+}
