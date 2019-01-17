@@ -2,6 +2,7 @@ body{
     width:100%;
     max-width: 960px;
     margin: 0 auto;
+    background-color: blue;
 }
 nav{
     width: 100%;
