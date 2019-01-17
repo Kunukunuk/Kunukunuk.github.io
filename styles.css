@@ -15,4 +15,5 @@ nav ul li {
 nav ul li a{
     display: block;
     width: 100%;
+    background-color: blue;
 }
