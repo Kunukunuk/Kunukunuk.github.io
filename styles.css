@@ -5,7 +5,6 @@ nav{
 }
 nav a{
     display: block;
-    width: 100%;
     float: left;
     font-family: sans-serif;
     font-size: 10px;
