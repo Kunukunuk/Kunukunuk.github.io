@@ -16,7 +16,6 @@ nav ul li {
 }
 nav ul li a{
     display: block;
-    float: left;
     font-family: sans-serif;
     font-size: 10px;
     color: white;
