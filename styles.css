@@ -36,5 +36,6 @@ nav ul li a{
     text-decoration: none;
 }
 .testing p{
+    width: 100%
     padding: 0 50px 0 50px;
 }
