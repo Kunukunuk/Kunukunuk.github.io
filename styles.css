@@ -35,7 +35,11 @@ nav ul li a{
     
     text-decoration: none;
 }
-.testing {
+.testing h1 {
+    text-align: left;
+    padding: 0 50px 0 50px;
+}
+.testing p{
     text-align: center;
     padding: 0 50px 0 50px;
 }
