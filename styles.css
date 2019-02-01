@@ -52,9 +52,7 @@ nav ul li a{
     list-style-type: none;
 }
 .bottombar {
+    color: white;
     text-align: center;
     background-color: #000000;
-}
-.bottombar h1 {
-    color: white;
 }
