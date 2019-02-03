@@ -3,7 +3,14 @@ body{
     width: 100%;
     max-width: 100%;
     margin: 0px auto;
-    background="/Pictures/panda.jpg"
+    
+}
+.backgroundPic{
+    
+    background-image: url("/Pictures/panda.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
     
 }
 nav{
