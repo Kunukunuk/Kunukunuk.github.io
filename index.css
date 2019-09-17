@@ -1,0 +1,86 @@
+ul li {
+    padding: 10px;
+}
+
+.body {
+    height: 100%;
+}
+
+#intro {
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    padding: 20px;
+    background-color: lightgray;
+    padding: 35%;
+    background-image: url('moon.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+#intro h1 {
+    color: white;
+}
+
+#skills {
+    color: blue;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    font-size: 50px;
+    background-image: url('try12.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+#skills li {
+    display: block;
+}
+
+#projects {
+    color: white;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    padding: 20px;
+    background-image: url('try6.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+#projects li {
+    display: flex;
+}
+
+#contacts {
+    width: 100vw;
+    height: 150px;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+#contacts ul {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+#contacts li {
+    /*display: block;
+    margin: auto;*/
+    display: inline-block;
+    margin-top: 50px;
+}
+
+.card {
+    color: blue;
+}
+
+th {
+    color: blue;
+}
+
+td {
+    color: white;
+}
